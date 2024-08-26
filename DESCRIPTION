@@ -1,0 +1,6 @@
+Title: Lab 3 — Wrangling sales data
+Date: 2018-05-31
+Depends:
+  R (>= 3.4)
+Imports:
+  tidyverse
